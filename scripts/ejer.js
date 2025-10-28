@@ -1,6 +1,6 @@
-    function tu_nombre(a, b) {
+function eriksantiago(a, b) {
   let suma = a + b;
   return `La suma de ${a} y ${b} es ${suma}`;
 }
 
-console.log(tu_nombre(5, 8));
+console.log(eriksantiago(5, 8));
