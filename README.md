@@ -4,6 +4,8 @@ Práctica de GitHub para el grupo ADSO24 del SENA, en la carpeta **scripts** enc
 
 En el archivo **TutoGit** puede ver cómo se utiliza Git y GitHub, en esta práctica se cubre lo básico.
 
+La carpeta **pagina** contiene el código hecho por Omar para juntar los demás códigos, en un html interactivo.
+
 ## Nota
 
 Esta entrega reemplaza la hecha en clase, puesto que en esa No se tiene claro quién hizo qué, algunos subieron dos archivos, otros un Laravel completo, otros faltan por entregar y como sus correos y nombres de usuario no son muy dicientes, toca que coloquen literal su nombre en los archivos (ver instrucciónes) para poder saber quién hizo qué, también el ejercicio está normalizado, ya todos sabrán qué hacer.
