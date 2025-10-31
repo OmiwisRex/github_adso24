@@ -1,4 +1,4 @@
-function suma(a,b){
+function daniel(a,b){
     return (a + b)
 }
-console.log(suma(4,2))
+console.log(daniel(4,2))
